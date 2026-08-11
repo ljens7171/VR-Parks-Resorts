@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Village Roadshow Management", // required by Discord API, not shown in the client
+        name: "Bot", // required by Discord API, not shown in the client
         state: "Village Roadshow Management",     // this is what people actually see
-        type: 0,               // Custom
+        type: 2,               // Custom
       },
     ],
   },
